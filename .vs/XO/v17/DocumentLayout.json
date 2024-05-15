@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\XO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{013ECC2D-20FC-491F-8081-95ECD4FCF7B4}|XO\\XO.vcxproj|E:\\XO\\XO\\XO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{013ECC2D-20FC-491F-8081-95ECD4FCF7B4}|XO\\XO.vcxproj|solutionrelative:XO\\XO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 439,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XO.cpp",
+              "DocumentMoniker": "E:\\XO\\XO\\XO.cpp",
+              "RelativeDocumentMoniker": "XO\\XO.cpp",
+              "ToolTip": "E:\\XO\\XO\\XO.cpp",
+              "RelativeToolTip": "XO\\XO.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-15T12:57:30.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
